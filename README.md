@@ -4,12 +4,12 @@
 
 <h3>My Certificates <h3>
   <a href="assets/Certificates/C hash BASIC.png">C# Basic</a> &nbsp
-  <a href="assets/Certificates/problem solving basic.png">Problem Solving Basic </a>
-  <a href="assets/Certificates/problem solving basic intermediate.png">Problem Solving Intermediate </a>
-  <a href="assets/Certificates/Python basic.png">Python Basic </a>
-  <a href="assets/Certificates/JAVA BASIC.png">Java Basic </a>
-  <a href="assets/Certificates/sql intermediate.png">Sql Intermediate </a>
-  <a href="assets/Certificates/SQL ADVANCED.png">Sql Advanced  </a>
-  <a href="assets/Certificates/CSS.png">CSS </a>
-  <a href="assets/Certificates/Javascript Basic.png">Javascript Basic </a>
-  <a href="assets/Certificates/Javascript Intermediate.png">Javascript Intermediate </a>
+  <a href="assets/Certificates/problem solving basic.png">Problem Solving Basic </a> &nbsp
+  <a href="assets/Certificates/problem solving basic intermediate.png">Problem Solving Intermediate </a> &nbsp
+  <a href="assets/Certificates/Python basic.png">Python Basic </a> &nbsp
+  <a href="assets/Certificates/JAVA BASIC.png">Java Basic </a> &nbsp
+  <a href="assets/Certificates/sql intermediate.png">Sql Intermediate </a> &nbsp
+  <a href="assets/Certificates/SQL ADVANCED.png">Sql Advanced  </a> &nbsp
+  <a href="assets/Certificates/CSS.png">CSS </a> &nbsp
+  <a href="assets/Certificates/Javascript Basic.png">Javascript Basic </a> &nbsp
+  <a href="assets/Certificates/Javascript Intermediate.png">Javascript Intermediate </a> &nbsp
