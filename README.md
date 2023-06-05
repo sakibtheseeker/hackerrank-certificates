@@ -3,7 +3,7 @@
 <img src="assets/Certificates/overall.png">
 
 <h3>My Certificates <h3>
-  <a href="assets/Certificates/C# BASIC.png"> C# Basic </a>
+  <a href="assets/Certificates/C# BASIC.png">C# Basic</a>
   <a href="assets/Certificates/problem solving basic.png">Problem Solving Basic <a>
   <a href="assets/Certificates/problem solving basic intermediate.png">Problem Solving Intermediate </a>
   <a href="assets/Certificates/Python basic.png">Python Basic </a>
