@@ -1,4 +1,4 @@
-<h1> <img src="assets/Certificates/800px-HackerRank_Icon-1000px.png" width=50px height=50px> Hackerrank-Certificates</h1>
+<h1> <img src="assets/Certificates/800px-HackerRank_Icon-1000px.png" width=30px height=30px> Hackerrank-Certificates</h1>
 <h3> <a href="https://www.hackerrank.com/tambolisaklait20?hr_r=1">HackerRank Profile<a> <h3><br><br>
 <img src="assets/Certificates/overall.png">
 
